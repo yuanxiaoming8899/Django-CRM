@@ -60,7 +60,7 @@ pip install virtualenvwrapper
 
 echo "source /home/ubuntu/.local/bin/virtualenvwrapper.sh" &gt;&gt; ~/.zshrc
 </code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="sudo apt update &amp;&amp; sudo apt upgrade -y &amp;&amp; sudo apt install zsh python3-virtualenv
+   
 
 sh -c &quot;$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)&quot;
 
